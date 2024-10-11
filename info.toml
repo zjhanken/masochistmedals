@@ -1,0 +1,9 @@
+[meta]
+name = "Masochist Medal"
+author = "Aflac_ducko"
+category = "Utilities"
+version = "1.0.0"
+siteid = 611
+
+[script]
+dependencies = ["NadeoServices"]
